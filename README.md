@@ -134,5 +134,5 @@ Which would result in 200 trials of a forward-masking experiment with:
 
 * targets shown for 17ms 
 * two different masks (from which one is randomly drawn per trial) shown for 100ms
-* blank trials (trials on which nothing is shown instead of the target) in 40% of trials 
+* blank trials (trials on which an empty screen is shown instead of the target stimulus) in 40% of trials 
 * and a detection task at the end of each trial (asking participants, whether or not a target was shown) 
