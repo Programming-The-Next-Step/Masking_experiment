@@ -69,7 +69,7 @@ I will use Python functions from several PsychoPy (sub-)libraries (specifically,
 
 &nbsp;
  
-**Functions and objects to be created**
+**Functions and Objects to be created**
 
 *Object: Mask*
 
