@@ -1,5 +1,5 @@
 """
-@author: Dom
+@author: Dominik
 """
 
 #Version 1.1
